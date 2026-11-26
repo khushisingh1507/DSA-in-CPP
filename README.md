@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
