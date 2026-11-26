@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/0300-longest-increasing-subsequence) |
+| [1025-divisor-game](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/1025-divisor-game) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -31,9 +32,22 @@
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/1025-divisor-game) |
 | [3360-stone-removal-game](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/3360-stone-removal-game) |
 ## Simulation
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/3360-stone-removal-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/khushisingh1507/DSA-in-CPP/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
